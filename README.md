@@ -29,7 +29,9 @@
 ✔ Version Control (Git, GitHub)  
 ✔ IDEs: **VS Code, Jupyter Notebook**  
  
-
+## **📂 My Projects**  
+- [WhatsApp Chat Analyzer](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer) → Analyzes WhatsApp chats for insights and trends.  
+- [Retailytics](https://github.com/Heshane-11/PySQL-Sync-Streamlining-Data-Integration-between-Python-and-MySQL) → Extracts eCommerce insights using MySQL and Python.  
 ---
 
 ## **📊 GitHub Stats**  
@@ -49,8 +51,9 @@
 ---
 
 ## **🌍 Connect with Me**  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-Heshane-11)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Heshane-11)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heshane-garg-9b638a28b/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23129@iiitu.ac.in) 
 
 ---
 
