@@ -1,60 +1,104 @@
 # **Hi, I'm Heshane Garg!** 👋  
-🚀 **Data Analytics Enthusiast | CSE @ IIIT Una**  
+🚀 **Python Developer | Django & REST APIs | Data Analytics | CSE @ IIIT Una**
 
 <img src="https://github.com/Heshane-11/Heshane-11/blob/main/new1.jpg" width="500" height="250">
 
-
-## **🌟 About Me**  
-- 🎓 **B.Tech in CSE** @ **IIIT Una** (2nd Year)  
-- 💡 Passionate about **Data Analysis & Business Analytics**  
-- 🔍 Exploring **SQL, Power BI, and Python for Data Analytics**  
-- 🎯 Preparing for **Data Analysis / Business Analytics Internships**  
 ---
 
-## **🚀 Tech Stack & Skills**  
-### **🔹 Data Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-✔ Python (Pandas, NumPy, Matplotlib, Seaborn)  
-✔ SQL Queries & Database Management  
-✔ Data Visualization (Power BI, Excel)  
-
-### **🔹 Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-
-✔ Version Control (Git, GitHub)  
-✔ IDEs: **VS Code, Jupyter Notebook**  
- 
-## **📂 My Projects**  
-- [WhatsApp Chat Analyzer](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer) → Analyzes WhatsApp chats for insights and trends.  
-- [Retailytics](https://github.com/Heshane-11/PySQL-Sync-Streamlining-Data-Integration-between-Python-and-MySQL) → Extracts eCommerce insights using MySQL and Python.  
----
-
-## **📊 GitHub Stats**  
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Heshane-11&show_icons=true&theme=radical" alt="GitHub Stats">
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Heshane-11&theme=radical" alt="GitHub Streak">
-</td>
-</tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heshane-11&layout=compact&theme=radical)  
+## 🧑‍💻 **About Me**
+- 🎓 B.Tech **CSE @ IIIT Una**  
+- 🐍 **Python Developer** (Django, Advanced Django, DRF)  
+- 📈 Passionate about **Data Analytics & Backend Engineering**  
+- 🧠 Strong in **Data Structures & Algorithms (DSA)**  
+- ⭐ **400+ LeetCode Problems** | **Contest Rating: 1682**  
+- 🛒 Built a **Django E-commerce Website** (deployment left)
+- 🎯 Preparing for **Data Analytics / Backend Internships**
 
 ---
 
-## **🌍 Connect with Me**  
+## ⚙️ **Technical Skills**
+
+### **Backend Development**
+- Django (Advanced)
+- Django REST Framework (APIs)
+- Authentication, CRUD, ORM
+- MySQL  
+- MVC/MVT Architecture  
+
+### **Data Analytics**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL  
+- Power BI  
+- Excel  
+
+### **CS Fundamentals**
+- DSA (Strong foundation)  
+- DBMS  
+- OS  
+- OOPS  
+
+### **Tools**
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+
+---
+
+## 📌 **Projects**
+
+### 🔹 **Django E-commerce Website**  
+A complete shopping website with:  
+- Product pages  
+- Add to cart  
+- Checkout  
+- Authentication  
+- Admin panel  
+**Status:** Deployment left  
+
+---
+
+### 🔹 **WhatsApp Chat Analyzer**  
+📊 Streamlit + Python  
+- Emoji heatmaps  
+- Chat insights  
+- User activity  
+
+🔗 Repo:  
+https://github.com/Heshane-11/WhatsApp-Chat-Analyzer  
+
+---
+
+### 🔹 **Retailytics – Data Pipeline**  
+Python + MySQL  
+- Automated 25k+ retail transactions  
+- Trend analysis  
+- Reusable pipeline  
+
+🔗 Repo:  
+https://github.com/Heshane-11/PySQL-Sync-Streamlining-Data-Integration-between-Python-and-MySQL  
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Heshane-11&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heshane-11&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshane-11&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🌍 **Connect With Me**
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Heshane-11)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heshane-garg-9b638a28b/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23129@iiitu.ac.in) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Heshane_Garg_11/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23129@iiitu.ac.in)
 
 ---
 
-### 🎯 **"Data is the new oil, and I am here to refine it!"** 🚀  
+### 🎯 *“Clean code, strong logic, and meaningful insights — that’s my work.”*
