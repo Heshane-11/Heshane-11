@@ -92,12 +92,18 @@ https://github.com/Heshane-11/PySQL-Sync-Streamlining-Data-Integration-between-P
 
 ---
 
-## 🌍 **Connect With Me**
+## 🌍 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Heshane-11)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heshane-garg-9b638a28b/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Heshane-11/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23129@iiitu.ac.in)
+<!-- Social Buttons -->
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Heshane-11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heshane-garg-9b638a28b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Heshane_Garg_11/)
+
+---
+
+### 📧 **Email:** 23129@iiitu.ac.in  
+### 📞 **Phone:** +91 7717471638
+
 
 ---
 
