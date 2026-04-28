@@ -16,11 +16,6 @@
 
 ---
 
-## 📄 **Resume**
-📌 **View Resume:**  
-https://drive.google.com/file/d/1qI3foP9elanki0z6eGILSmOR4NztG_0e/view?usp=drive_link
-
----
 
 ## ⚙️ **Technical Skills**
 
