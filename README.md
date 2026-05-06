@@ -1,8 +1,9 @@
 # **Hi, I'm Heshane Garg!** 👋  
 🚀 **Python Developer | Django & REST APIs | Data Analytics | CSE @ IIIT Una**
 
-🌐 **Portfolio:**  
-heshane-11.github.io/portfolio/
+🌐 **Portfolio:**  https://heshane-11.github.io/portfolio/
+
+
 <img src="https://github.com/Heshane-11/Heshane-11/blob/main/new1.jpg" width="500" height="250">
 
 ---
